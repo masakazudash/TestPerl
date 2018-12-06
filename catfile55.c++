@@ -10,8 +10,8 @@ int main()
   
   sugaplot(5,4.12,&c);
   
-  printf("total cost is %d", c);
-  
+  //printf("total cost is %d", c);
+  test.oo;
   return TRUE;
 }
 
